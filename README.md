@@ -36,10 +36,10 @@ For this project, we used the following technologies:
 To Clone the repo locally. In a terminal, run:
 
 ```
-$ git clone https://github.com/TICTACTOE-ULTIMATE.git
+$ git clone https://github.com/wycliffkas/tictac.git
 ```
 
 ## 2. Run the application
 - Install [Node.js](https://nodejs.org/en/)
-- Run `npm install` to install the dependencies
+- Run `expo install` to install the dependencies
 - Run `expo start` to launch the app.
