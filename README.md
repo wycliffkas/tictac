@@ -15,6 +15,31 @@ For this project, we used the following technologies:
 1. first rule
 2. second rule
 
-## Design
+# Ultimate Tic Tac Toe
 
-You can check all about the design of the app in the [design](/design/README.md) folder.
+Ultimate Tic Tac Toe is 9x9 tic tac toe game with a few more [rules](#rules).
+
+For this project, we used the following technologies:
+ - React Native (Android, IOS, Webapp)
+ - Typescript
+ - Excalidraw (/design)
+ - Native Base
+ - Eslint + prettier
+
+## Rules
+
+1. first rule
+2. second rule
+
+## 1. Clone application
+
+To Clone the repo locally. In a terminal, run:
+
+```
+$ git clone https://github.com/TICTACTOE-ULTIMATE.git
+```
+
+## 2. Run the application
+- Install [Node.js](https://nodejs.org/en/)
+- Run `npm install` to install the dependencies
+- Run `expo start` to launch the app.
